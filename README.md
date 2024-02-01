@@ -13,3 +13,31 @@ This project utilizes Natural Language Processing (NLP) to analyze sentiments in
 - Implemented text preprocessing, including tokenization, stemming, and removal of stopwords.
 - Achieved a model accuracy of 67.9%, effectively classifying sentiments into positive and negative.
 
+Conclusion
+
+Aim: To utilize Twitter feed to carry out the sentimental analysis on the new strain of COVID-19.
+
+Made machine understand textual data
+
+    Tokenization
+
+    Regular expression
+
+    Natural Language Toolkit (NLTK) package
+
+    Preprocessing:
+
+            Remove hyperlinks, hashtags etc.
+            Remove stopwords and punctuation
+            Stemming
+
+    Represent text in NLP:
+
+            Sparse representation
+            Drawbacks of sparse representation
+            Frequency Dictionary
+            Extracting features from Frequency Dictionary
+
+    Training Logistic Regression.
+
+    Performance on the test set
