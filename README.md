@@ -8,10 +8,7 @@ This project utilizes Natural Language Processing (NLP) to analyze sentiments in
 - NLTK for natural language processing
 - Logistic Regression for sentiment classification
 
-## Key Achievements
-- Processed and analyzed 11,000+ tweets to identify sentiment trends.
-- Implemented text preprocessing, including tokenization, stemming, and removal of stopwords.
-- Achieved a model accuracy of 67.9%, effectively classifying sentiments into positive and negative.
+
 
 Conclusion
 
@@ -41,3 +38,9 @@ Made machine understand textual data
     Training Logistic Regression.
 
     Performance on the test set
+
+
+## Key Achievements
+- Processed and analyzed 11,000+ tweets to identify sentiment trends.
+- Implemented text preprocessing, including tokenization, stemming, and removal of stopwords.
+- Achieved a model accuracy of 67.9%, effectively classifying sentiments into positive and negative.
